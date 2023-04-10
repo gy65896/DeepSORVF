@@ -51,7 +51,7 @@
 }
 ```
 
-#### 如果您有更多问题，请联系我们(yuguo@whut.edu.cn & wenliu@whut.edu.cn).
+#### 如果您有更多问题，请联系我们(yuguo@whut.edu.cn & wenliu@whut.edu.cn)。
 
 ## 参考资料
 
