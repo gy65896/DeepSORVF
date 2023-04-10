@@ -5,3 +5,4 @@ This is the python code corresponding to the article "Asynchronous Trajectory Ma
 ## Reference
 
 https://github.com/bubbliiiing/yolox-pytorch
+https://github.com/dyh/unbox_yolov5_deepsort_counting/tree/main/deep_sort
