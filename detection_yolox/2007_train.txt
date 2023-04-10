@@ -1,0 +1,60 @@
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/1.png 5,291,267,411,0 285,293,413,346,0 457,269,570,331,0 733,276,1177,419,0 1225,269,1287,319,0 1817,271,1850,293,0 2276,294,2324,322,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/10.png 8,329,50,379,0 111,320,210,369,0 391,308,465,343,0 534,308,611,333,0 1050,293,1150,320,0 1354,266,1421,293,0 2045,256,2093,276,0 1968,251,2005,273,0 1896,254,1937,276,0 2319,243,2365,269,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/11.png 1077,245,1110,269,0 1345,239,1396,268,0 644,239,741,276,0 565,253,605,271,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/12.png 1128,249,1176,285,0 1348,242,1424,283,0 261,251,367,297,0 1,268,121,320,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/13.png 174,236,368,299,0 1377,242,1448,282,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/14.png 1374,236,1442,271,0 930,249,968,271,0 767,256,810,274,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/15.png 1387,228,1473,276,0 527,226,593,254,0 228,225,311,259,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/16.png 1948,237,2148,294,0 441,271,485,289,0 1730,256,1814,280,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/17.png 1368,246,1422,277,0 244,268,287,291,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/18.png 1748,269,1807,300,0 422,209,576,246,0 1985,254,2093,313,0 2207,308,2234,325,0 2405,305,2457,340,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/19.png 1525,246,1601,282,0 1450,263,1479,288,0 1181,240,1267,282,0 768,273,839,285,0 553,269,650,303,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/2.png 402,237,519,273,0 794,245,1019,286,0 771,242,911,271,0 967,236,1188,282,0 1042,240,1291,311,0 1267,246,1490,297,0 1510,259,1721,294,0 1768,263,1944,308,0 2019,273,2234,313,0 2142,277,2525,349,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/20.png 1268,253,1331,285,0 1541,228,1648,283,0 1757,256,1797,296,0 1916,246,1988,293,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/21.png 2,259,94,302,0 777,254,827,283,0 1105,233,1197,280,0 1353,256,1394,288,0 1473,251,1542,280,0 1435,266,1455,284,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/22.png 1262,256,1307,294,0 1317,265,1342,288,0 1461,242,1531,288,0 1044,234,1134,287,0 51,282,161,314,0 2079,269,2141,300,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/23.png 1630,279,1745,319,0 1433,243,1502,277,0 1227,262,1257,288,0 1174,259,1216,288,0 990,237,1062,288,0 681,256,737,288,0 308,262,444,311,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/24.png 1194,274,1367,325,0 1397,246,1473,276,0 1111,257,1136,280,0 951,231,1010,282,0 616,246,688,283,0 408,249,564,300,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/25.png 2311,248,2557,353,0 1687,245,1764,282,0 1396,246,1430,277,0 1084,228,1170,271,0 671,226,777,266,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/26.png 654,249,794,306,0 1130,246,1248,286,0 1508,256,1550,291,0 1831,245,1917,286,0 2204,263,2247,283,0 2311,260,2394,286,0 2447,256,2560,290,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/27.png 2141,263,2199,308,0 1253,223,1402,289,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/28.png 1247,233,1317,268,0 2484,283,2560,337,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/29.png 1796,246,1942,305,0 887,239,965,288,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/3.png 1021,233,1467,316,0 1462,245,1633,300,0 1745,260,1857,297,0 1948,262,2097,309,0 2128,276,2173,302,0 2214,268,2288,303,0 2281,279,2348,305,0 2364,288,2445,322,0 2485,286,2560,340,0 945,253,1196,285,0 865,256,924,282,0 630,263,833,309,0 377,259,639,296,0 337,259,477,302,0 1,245,325,316,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/31.png 556,243,668,283,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/32.png 699,245,757,277,0 1,236,87,288,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/33.png 1,266,162,321,0 821,253,913,293,0 1176,263,1234,288,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/34.png 1487,254,1544,288,0 1610,251,1661,288,0 347,234,553,291,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/36.png 1928,274,1991,296,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/37.png 2381,277,2451,308,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/38.png 1974,256,2071,289,0 2084,249,2190,293,0 2365,269,2417,296,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/39.png 2253,257,2333,308,0 1991,251,2077,306,0 1705,265,1785,302,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/40.png 1054,259,1121,293,0 647,259,747,297,0 419,233,622,308,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/41.png 542,228,801,308,0 2,280,125,348,0 1091,262,1182,299,0 1465,260,1533,289,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/42.png 1602,256,1679,293,0 1259,256,1341,297,0 679,271,831,323,0 451,240,728,313,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/43.png 937,259,1007,296,0 1164,251,1273,294,0 1270,268,1325,300,0 1534,265,1585,293,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/45.png 364,273,459,316,0 1016,268,1042,297,0 1517,263,1573,286,0 1661,265,1711,283,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/46.png 1602,243,1688,293,0 576,248,710,300,0 345,276,404,303,0 87,280,157,316,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/47.png 125,273,213,317,0 1402,245,1697,293,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/49.png 1673,254,1722,285,0 1747,257,1808,282,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/5.png 1770,259,1822,282,0 1582,250,1634,281,0 1389,248,1449,279,0 1214,243,1269,278,0 1130,236,1223,277,0 895,231,990,277,0 793,236,869,271,0 580,240,680,279,0 186,239,256,275,0 80,236,157,279,0 2,240,94,297,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/50.png 1606,256,1654,284,0 1525,264,1569,282,0 1899,255,2020,296,0 2310,273,2356,300,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/51.png 836,246,917,273,0 156,257,217,285,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/53.png 1081,257,1127,279,0 202,268,254,285,0 2514,279,2560,317,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/55.png 1,269,161,327,0 765,263,821,291,0 1747,265,1805,290,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/56.png 171,277,205,297,0 1693,262,1754,291,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/57.png 1111,259,1196,288,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/58.png 8,259,156,311,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/59.png 147,281,196,300,0 1137,267,1169,286,0 1395,261,1433,280,0 2048,267,2076,293,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/6.png 1764,259,1827,288,0 1554,258,1610,293,0 1344,259,1406,286,0 1064,251,1151,287,0 999,254,1116,286,0 915,259,968,281,0 654,243,794,290,0 91,262,249,308,0 1,263,41,296,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/60.png 2090,270,2150,293,0 1322,263,1372,281,0 948,266,988,281,0 41,283,68,299,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/61.png 1076,256,1156,288,0 1345,243,1462,286,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/62.png 2107,282,2149,297,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/63.png 1137,279,1175,299,0 1222,276,1251,295,0 1347,271,1388,290,0 1412,272,1454,290,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/64.png 1086,278,1137,302,0 1010,289,1048,309,0 725,294,779,326,0 449,307,506,341,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/65.png 625,277,754,343,0 214,319,364,373,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/66.png 574,289,710,353,0 282,333,345,365,0 22,345,174,397,0 1727,256,1799,284,0 1912,234,2084,277,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/67.png 559,265,791,340,0 327,300,417,351,0 2465,234,2560,303,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/68.png 1074,268,1136,305,0 2213,240,2325,297,0 2390,239,2507,294,0 825,254,942,337,0 516,245,810,329,0 402,288,484,334,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/8.png 845,183,1394,343,0 1396,226,1633,309,0 2265,233,2401,333,0 408,205,757,313,0
+H:\python_code\Method_code\detection\VOCdevkit_val/VOC2007/JPEGImages/9.png 296,154,1111,379,0 1377,246,1416,279,0 2285,246,2373,279,0 2384,246,2484,282,0
