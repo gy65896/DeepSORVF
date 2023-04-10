@@ -31,9 +31,7 @@ In this work, we first extract the AIS- and video-based vessel trajectories, and
 
 * Run `main.py`.
 
-## Test Data
-
-[clip-01](https://drive.google.com/file/d/1mhah7ZzP8oAUuSMR96Or9UvqkXe-AMuS/view?usp=share_link)
+* Test Data: [clip-01](https://drive.google.com/file/d/1Bns1jAW1ImL-FeCQBvIUcrO0hjYLIB5K/view?usp=share_link)
 
 ## FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
 
