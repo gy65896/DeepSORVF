@@ -11,10 +11,10 @@
 在这项工作中，我们首先提取基于AIS和视频的船舶轨迹，然后提出了一种基于深度学习的异步轨迹匹配方法（名为 DeepSORVF），以将基于AIS的船舶信息与相应的视觉目标融合。此外，通过结合基于AIS和视频的运动特征，我们还提出了一种先验知识驱动的抗遮挡方法，以在遮挡条件下产生准确且稳健的船舶跟踪结果。
 
 ![Figure01_Flowchart](https://user-images.githubusercontent.com/48637474/230878573-a26b035d-3ed0-4db9-9b58-161067632daf.jpg)
-**图1. DeepSORVF的流程图.**
+**图1. DeepSORVF的流程图**
 
 ![Figure03_Video](https://user-images.githubusercontent.com/48637474/230878762-223472ae-cf19-4167-adbb-80c3f77ae9c3.jpg)
-**图2. 面向视觉船舶轨迹提取的抗遮挡跟踪方法流程图.**
+**图2. 面向视觉船舶轨迹提取的抗遮挡跟踪方法流程图**
 
 ## 环境准备
 
@@ -22,14 +22,14 @@
 - Pytorch 1.9.1
 - pandas
 - re
-- 将[ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link)保存至`DeepSORVF/deep_sort/deep_sort/deep/checkpoint/`文件夹下
-- 将[YOLOX-final.pth](https://drive.google.com/file/d/1mhah7ZzP8oAUuSMR96Or9UvqkXe-AMuS/view?usp=share_link)保存至`DeepSORVF/detection_yolox/model_data/`文件夹下
+- 将[ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link)保存至`DeepSORVF/deep_sort/deep_sort/deep/checkpoint/`文件夹下。
+- 将[YOLOX-final.pth](https://drive.google.com/file/d/1mhah7ZzP8oAUuSMR96Or9UvqkXe-AMuS/view?usp=share_link)保存至`DeepSORVF/detection_yolox/model_data/`文件夹下。
 
 ## 运行
 
-* 设置数据路径`parser.add_argument("--data_path", type=str, default = './clip-01/', help='data path')`.
+* 设置数据路径`parser.add_argument("--data_path", type=str, default = './clip-01/', help='data path')`。
 
-* 运行`main.py`.
+* 运行`main.py`。
 
 #### 测试数据: [clip-01](https://drive.google.com/file/d/1Bns1jAW1ImL-FeCQBvIUcrO0hjYLIB5K/view?usp=share_link)
 
