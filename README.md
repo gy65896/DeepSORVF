@@ -1,4 +1,4 @@
-# DeepSORVF
+# DeepSORVF: Deep Learning-based Simple Online and Real-Time Vessel Data Fusion Method
 
 ---
 ### Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways [[Paper](http://arxiv.org/abs/2302.11283)]
