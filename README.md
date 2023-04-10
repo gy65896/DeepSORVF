@@ -20,6 +20,8 @@ In this work, we first extract the AIS- and video-based vessel trajectories, and
 
 - Python 3.7
 - Pytorch 1.9.1
+- pandas
+- re
 
 ## Citation
 
