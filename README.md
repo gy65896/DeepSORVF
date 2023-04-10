@@ -27,7 +27,7 @@ In this work, we first extract the AIS- and video-based vessel trajectories, and
 
 ## Running
 
-* Set data dir by `parser.add_argument("--data_path", type=str, default = './Video-01/', help='data path')`.
+* Set data dir by `parser.add_argument("--data_path", type=str, default = './clip-01/', help='data path')`.
 
 * Run `main.py`.
 
