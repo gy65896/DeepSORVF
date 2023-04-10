@@ -13,9 +13,26 @@ In this work, we first extract the AIS- and video-based vessel trajectories, and
 ![Figure01_Flowchart](https://user-images.githubusercontent.com/48637474/230878573-a26b035d-3ed0-4db9-9b58-161067632daf.jpg)
 **Figure 1. The architecture of the proposed deep learning-based simple online and real-time vessel data fusion method (termed DeepSORVF).**
 
-
 ![Figure03_Video](https://user-images.githubusercontent.com/48637474/230878762-223472ae-cf19-4167-adbb-80c3f77ae9c3.jpg)
 **Figure 2. The flowchart of anti-occlusion tracking method for video-based vessel trajectory extraction.**
+
+## Preparation
+
+- Python 3.7
+- Pytorch 1.9.1
+
+## Citation
+
+```
+@article{guo2023asynchronous,
+  title={Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways},
+  author={Guo, Yu and Liu, Ryan Wen and Qu, Jingxiang and Lu, Yuxu and Zhu, Fenghua, and Lv, Yisheng},
+  journal={arXiv preprint arXiv:2302.11283},
+  year={2023}
+}
+```
+
+#### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
 
 ## Reference
 
