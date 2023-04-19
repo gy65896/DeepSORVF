@@ -1,7 +1,7 @@
 # DeepSORVF: Deep Learning-based Simple Online and Real-Time Vessel Data Fusion Method
 
 ---
->**Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways [[Paper](http://arxiv.org/abs/2302.11283)]**<br>  Yu Guo, [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html), Jingxiang Qu, Fenghua Zhu, Yisheng Lv <br> 
+>**Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways [[Paper](http://arxiv.org/abs/2302.11283)]**<br>  Yu Guo, [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html), Jingxiang Qu, Yuxu Lu, Fenghua Zhu, Yisheng Lv <br> 
 >arXiv preprint arXiv:2302.11283
 
 ![video](https://user-images.githubusercontent.com/48637474/220859261-33458b91-2f2b-4d58-8c26-73610c53ca37.gif)
@@ -38,6 +38,10 @@ The [FVessel](https://github.com/gy65896/FVessel) benchmark dataset is used to e
 
 ![Figure04_FVessel](https://user-images.githubusercontent.com/48637474/210925024-15dcbcbe-717b-47b6-ad4b-377d71141380.jpg)
 **Figure 3. Some samples of the FVessel dataset, which contains massive images and videos captured on the bridge region and riverside under sunny, cloudy, and low-light conditions.**
+
+## Acknowledgements
+
+We deeply thank Jianlong Su in Wuhan University of Technology who performs the data acquisition and algorithm implementation in this work.
 
 ## Citation
 
