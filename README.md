@@ -41,7 +41,7 @@ The [FVessel](https://github.com/gy65896/FVessel) benchmark dataset is used to e
 
 ## Acknowledgements
 
-We deeply thank Jianlong Su in Wuhan University of Technology who performs the data acquisition and algorithm implementation in this work.
+We deeply thank **Jianlong Su** in Wuhan University of Technology who performs the data acquisition and algorithm implementation in this work.
 
 ## Citation
 
