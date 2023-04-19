@@ -16,19 +16,17 @@ In this work, we first extract the AIS- and video-based vessel trajectories, and
 ![Figure03_Video](https://user-images.githubusercontent.com/48637474/230878762-223472ae-cf19-4167-adbb-80c3f77ae9c3.jpg)
 **Figure 2. The flowchart of anti-occlusion tracking method for video-based vessel trajectory extraction.**
 
-## Preparation
+## Requirement
 
 - Python 3.7
 - Pytorch 1.9.1
 - pandas
 - re
-- Save [ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link) to `DeepSORVF/deep_sort/deep_sort/deep/checkpoint/` folder 
-- Save [YOLOX-final.pth](https://drive.google.com/file/d/1mhah7ZzP8oAUuSMR96Or9UvqkXe-AMuS/view?usp=share_link) to `DeepSORVF/detection_yolox/model_data/` folder
 
 ## Running
-
+* Save [ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link) to `DeepSORVF/deep_sort/deep_sort/deep/checkpoint/` folder.
+* Save [YOLOX-final.pth](https://drive.google.com/file/d/1mhah7ZzP8oAUuSMR96Or9UvqkXe-AMuS/view?usp=share_link) to `DeepSORVF/detection_yolox/model_data/` folder.
 * Set data dir by `parser.add_argument("--data_path", type=str, default = './clip-01/', help='data path')`.
-
 * Run `main.py`.
 
 #### Test Data: [clip-01](https://drive.google.com/file/d/1Bns1jAW1ImL-FeCQBvIUcrO0hjYLIB5K/view?usp=share_link)
@@ -54,7 +52,6 @@ The [FVessel](https://github.com/gy65896/FVessel) benchmark dataset is used to e
 #### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
 
 ## Reference
-
 
 https://github.com/bubbliiiing/yolox-pytorch
 
