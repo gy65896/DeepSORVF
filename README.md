@@ -1,9 +1,18 @@
 # DeepSORVF: Deep Learning-based Simple Online and Real-Time Vessel Data Fusion Method
 
 ---
-### Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways [[Paper](http://arxiv.org/abs/2302.11283)]
+>**Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways [[Paper](http://arxiv.org/abs/2302.11283)]**<br>  Yu Guo, [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html), Jingxiang Qu, Fenghua Zhu, Yisheng Lv <br> 
+>arXiv preprint arXiv:2302.11283
+### 
 
 ![video](https://user-images.githubusercontent.com/48637474/220859261-33458b91-2f2b-4d58-8c26-73610c53ca37.gif)
+
+## Requirement
+
+- Python 3.7
+- Pytorch 1.9.1
+- pandas
+- re
 
 ## Introduction
 English | [简体中文](README_zh-CN.md)
@@ -15,13 +24,6 @@ In this work, we first extract the AIS- and video-based vessel trajectories, and
 
 ![Figure03_Video](https://user-images.githubusercontent.com/48637474/230878762-223472ae-cf19-4167-adbb-80c3f77ae9c3.jpg)
 **Figure 2. The flowchart of anti-occlusion tracking method for video-based vessel trajectory extraction.**
-
-## Requirement
-
-- Python 3.7
-- Pytorch 1.9.1
-- pandas
-- re
 
 ## Running
 * Save [ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link) to `DeepSORVF/deep_sort/deep_sort/deep/checkpoint/` folder.
