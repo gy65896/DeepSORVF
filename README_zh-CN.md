@@ -1,10 +1,18 @@
 # DeepSORVF: 基于深度学习的简单在线实时船舶数据融合方法
 
 ---
->**面向内河船舶交通监管的多模态异步轨迹匹配海事数据融合 [[论文](http://arxiv.org/abs/2302.11283)]**<br> Yu Guo, [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html), Jingxiang Qu, Fenghua Zhu, Yisheng Lv <br> 
+>**面向内河船舶交通监管的多模态异步轨迹匹配海事数据融合 [[论文](http://arxiv.org/abs/2302.11283)]**<br> 郭彧, [刘文](http://mipc.whut.edu.cn/index.html), 瞿晶祥, 朱凤华, 吕宜生 <br> 
 >arXiv preprint arXiv:2302.11283
 
 ![video](https://user-images.githubusercontent.com/48637474/220859261-33458b91-2f2b-4d58-8c26-73610c53ca37.gif)
+
+## 环境准备
+
+- Python 3.7
+- Pytorch 1.9.1
+- pandas
+- re
+
 
 ## 介绍
 [English](README.md) | 简体中文
@@ -17,19 +25,10 @@
 ![Figure03_Video](https://user-images.githubusercontent.com/48637474/230878762-223472ae-cf19-4167-adbb-80c3f77ae9c3.jpg)
 **图2. 面向视觉船舶轨迹提取的抗遮挡跟踪方法流程图**
 
-## 环境准备
-
-- Python 3.7
-- Pytorch 1.9.1
-- pandas
-- re
-- 将[ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link)保存至`DeepSORVF/deep_sort/deep_sort/deep/checkpoint/`文件夹下。
-- 将[YOLOX-final.pth](https://drive.google.com/file/d/1mhah7ZzP8oAUuSMR96Or9UvqkXe-AMuS/view?usp=share_link)保存至`DeepSORVF/detection_yolox/model_data/`文件夹下。
-
 ## 运行
-
+* 将[ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link)保存至`DeepSORVF/deep_sort/deep_sort/deep/checkpoint/`文件夹下。
+* 将[YOLOX-final.pth](https://drive.google.com/file/d/1mhah7ZzP8oAUuSMR96Or9UvqkXe-AMuS/view?usp=share_link)保存至`DeepSORVF/detection_yolox/model_data/`文件夹下。
 * 设置数据路径`parser.add_argument("--data_path", type=str, default = './clip-01/', help='data path')`。
-
 * 运行`main.py`。
 
 #### 测试数据: [clip-01](https://drive.google.com/file/d/1Bns1jAW1ImL-FeCQBvIUcrO0hjYLIB5K/view?usp=share_link)
