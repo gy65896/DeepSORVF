@@ -26,7 +26,7 @@ In this work, we first extract the AIS- and video-based vessel trajectories, and
 
 ## Running
 * Save [ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link) to `DeepSORVF/deep_sort/deep_sort/deep/checkpoint/` folder.
-* Save [YOLOX-final.pth](https://drive.google.com/file/d/1mhah7ZzP8oAUuSMR96Or9UvqkXe-AMuS/view?usp=share_link) to `DeepSORVF/detection_yolox/model_data/` folder.
+* Save [YOLOX-final.pth]() to `DeepSORVF/detection_yolox/model_data/` folder.
 * Set data dir by `parser.add_argument("--data_path", type=str, default = './clip-01/', help='data path')`.
 * Run `main.py`.
 
