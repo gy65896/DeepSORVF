@@ -1,7 +1,7 @@
 # DeepSORVF: 基于深度学习的简单在线实时船舶数据融合方法
 [![Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2302.11283)
 [![Dataset](https://img.shields.io/badge/FVessel-Dataset-orange.svg)](https://github.com/gy65896/FVessel)
-[![English](https://img.shields.io/badge/英文-English-green.svg)](README_zh-CN.md)
+[![English](https://img.shields.io/badge/英文-English-green.svg)](README.md)
 
 ---
 >**内河船舶交通监管中基于异步轨迹匹配的多模态海事数据融合**<br> 郭彧, [刘文](http://mipc.whut.edu.cn/index.html), 瞿晶祥, 卢煜旭, 朱凤华, 吕宜生 <br> 
