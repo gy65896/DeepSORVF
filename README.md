@@ -34,6 +34,8 @@
 * Set data dir by `parser.add_argument("--data_path", type=str, default = './clip-01/', help='data path')`.
 * Run `main.py`.
 
+
+#### `draw_org.py` is used to simultaneously visualize the ais-based trajectory (blue line), target detection box (red box), and fusion results (black text). It can be enabled by modifying `import draw` in `main.py` to `import draw_org`.
 #### Test Data: [clip-01](https://drive.google.com/file/d/1Bns1jAW1ImL-FeCQBvIUcrO0hjYLIB5K/view?usp=share_link)
 
 ## FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
@@ -45,7 +47,6 @@ The [FVessel](https://github.com/gy65896/FVessel) benchmark dataset is used to e
 
 ## Performance on [FVessel_V1.0](https://github.com/gy65896/FVessel)
 <div align=center>
- 
 
 |Name|MOFA (%)|IDP (%)|IDR (%)|IDF (%)|video
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -95,8 +96,6 @@ We deeply thank **Jianlong Su** from the School of Computer and Artificial Intel
 ```
 
 #### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
-
-#### `draw_org.py` is used to simultaneously visualize the ais-based trajectory (blue line), target detection box (red box), and fusion results (black text). It can be enabled by modifying `import draw` in `main.py` to `import draw_org`.
 
 ## Reference
 
