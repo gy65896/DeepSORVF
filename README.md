@@ -96,6 +96,8 @@ We deeply thank **Jianlong Su** from the School of Computer and Artificial Intel
 
 #### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
 
+#### `draw_org.py` is used to simultaneously visualize the ais-based trajectory (blue line), target detection box (red box), and fusion results (black text). It can be enabled by modifying `import draw` in `main.py` to `import draw_org`.
+
 ## Reference
 
 https://github.com/bubbliiiing/yolox-pytorch
