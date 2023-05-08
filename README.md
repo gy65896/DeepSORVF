@@ -48,7 +48,7 @@ The [FVessel](https://github.com/gy65896/FVessel) benchmark dataset is used to e
 ## Performance on [FVessel_V1.0](https://github.com/gy65896/FVessel)
 <div align=center>
 
-|Name|MOFA (%)|IDP (%)|IDR (%)|IDF (%)|video
+|Name|MOFA (%)|IDP (%)|IDR (%)|IDF (%)|Video
 | :-: | :-: | :-: | :-: | :-: | :-: |
 [video-01](https://user-images.githubusercontent.com/48637474/236730149-e098365f-0d6a-4c56-8e18-3e47b7b3a7d6.mp4)|79.94|89.35|90.76|90.05|<img src="https://user-images.githubusercontent.com/48637474/236740815-645fa2f6-abe6-4720-b884-317b270a4d1e.gif" width="150">
 [video-02](https://user-images.githubusercontent.com/48637474/236730157-39ce91d9-c8f9-461b-83d5-62d91df67cf9.mp4)|73.19|83.27|91.60|87.23|<img src="https://user-images.githubusercontent.com/48637474/236740837-44b6551b-47ab-48cc-9e1a-b2204ef50093.gif" width="150">
