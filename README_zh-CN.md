@@ -35,6 +35,7 @@
 * 设置数据路径`parser.add_argument("--data_path", type=str, default = './clip-01/', help='data path')`。
 * 运行`main.py`。
 
+#### `draw_org.py` 用于同时可视化基于 ais 的轨迹（蓝线）、目标检测框（红框）和融合结果（黑色文本）。可以通过将 `main.py` 中的 `import draw` 修改为 `import draw_org` 来启用它。
 #### 测试数据: [clip-01](https://drive.google.com/file/d/1Bns1jAW1ImL-FeCQBvIUcrO0hjYLIB5K/view?usp=share_link)
 
 ## FVessel: 用于船舶检测、跟踪和数据融合的基准数据集
