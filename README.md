@@ -71,7 +71,7 @@ The [FVessel](https://github.com/gy65896/FVessel) benchmark dataset is used to e
 [video-23](https://user-images.githubusercontent.com/48637474/236730626-aebe9cce-06b5-423f-b017-e1b3a3171a50.mp4)|94.71|98.91|95.77|97.31|![video_23](https://user-images.githubusercontent.com/48637474/236740419-f135c633-af9e-4881-9c15-db798537eaaa.gif)
 [video-24](https://user-images.githubusercontent.com/48637474/236730628-9db4a034-1016-4c32-a8ad-e77dd730dc7c.mp4)|94.70|98.34|96.33|97.32|![video_24](https://user-images.githubusercontent.com/48637474/236740427-5befe2b8-2a7a-4a7f-a032-f12805c40f3f.gif)
 [video-25](https://user-images.githubusercontent.com/48637474/236730630-48d8bf1b-0059-4885-afc9-1a2f4dc2b3d5.mp4)|91.49|97.66|93.73|95.66|![video_25](https://user-images.githubusercontent.com/48637474/236740432-a05e7bbc-0390-4653-86b5-690f647f9e45.gif)
-[video-26](https://user-images.githubusercontent.com/48637474/236730632-da8b0ff3-9edb-461b-9d3d-6ac22f1b56d3.mp4)|97.44|99.11|98.32|98.72|<img src="https://user-images.githubusercontent.com/48637474/236740438-08446266-35d2-4e5a-a19f-90391fbf1701.gif width="320">
+[video-26](https://user-images.githubusercontent.com/48637474/236730632-da8b0ff3-9edb-461b-9d3d-6ac22f1b56d3.mp4)|97.44|99.11|98.32|98.72|<img src="https://user-images.githubusercontent.com/48637474/236740438-08446266-35d2-4e5a-a19f-90391fbf1701.gif" width="320">
 Average |91.13|95.90|95.41|95.59|...
 
 <img src="https://user-images.githubusercontent.com/48637474/236740438-08446266-35d2-4e5a-a19f-90391fbf1701.gif" width="320">
