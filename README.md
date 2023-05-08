@@ -1,7 +1,15 @@
-# DeepSORVF: Deep Learning-based Simple Online and Real-Time Vessel Data Fusion Method
+
+# <p align=center> DeepSORVF: Deep Learning-based Simple Online and Real-Time Vessel Data Fusion Method</p>
+
+<div align="center">
+
 [![Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2302.11283)
 [![Dataset](https://img.shields.io/badge/FVessel-Dataset-orange.svg)](https://github.com/gy65896/FVessel)
 [![Chinese](https://img.shields.io/badge/简体中文-Chinese-green.svg)](README_zh-CN.md)
+[![Python](https://img.shields.io/badge/3.7-Python-blue.svg)](https://www.python.org/)
+[![Pytorch](https://img.shields.io/badge/1.9.1-Pytorch-yellow.svg)](https://pytorch.org/)
+
+</div>
 
 ---
 >**Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways**<br>  Yu Guo, [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html), Jingxiang Qu, Yuxu Lu, Fenghua Zhu, Yisheng Lv <br> 
@@ -11,13 +19,6 @@
 <hr />
 
 ![video](https://user-images.githubusercontent.com/48637474/220859261-33458b91-2f2b-4d58-8c26-73610c53ca37.gif)
-
-## Requirement
-
-- Python 3.7
-- Pytorch 1.9.1
-- pandas
-- re
 
 ## Flowchart
 
