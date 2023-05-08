@@ -74,7 +74,7 @@ The [FVessel](https://github.com/gy65896/FVessel) benchmark dataset is used to e
 [video-26](https://user-images.githubusercontent.com/48637474/236730632-da8b0ff3-9edb-461b-9d3d-6ac22f1b56d3.mp4)|97.44|99.11|98.32|98.72|![video_26](https://user-images.githubusercontent.com/48637474/236740438-08446266-35d2-4e5a-a19f-90391fbf1701.gif)
 Average |91.13|95.90|95.41|95.59|...
 
-<img src="https://user-images.githubusercontent.com/48637474/236740438-08446266-35d2-4e5a-a19f-90391fbf1701.gif" width="320" alt="抽奖">
+<img src="https://user-images.githubusercontent.com/48637474/236740438-08446266-35d2-4e5a-a19f-90391fbf1701.gif" width="320">
 
 
 ## Acknowledgements
