@@ -52,7 +52,6 @@ The [FVessel](https://github.com/gy65896/FVessel) benchmark dataset is used to e
   3|600000000|114.3156  |30.59773 |7.2|39.6 |511|18|1652181649704
   ...|...|...|... |...|... |...|...|...
 
-https://user-images.githubusercontent.com/48637474/236726790-b0960a7f-4d39-40e4-aa24-738ba58b6e67.mp4
 
 
 ## Acknowledgements
