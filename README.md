@@ -23,7 +23,7 @@
 ## Flowchart
 
 ![Figure01_Flowchart](https://user-images.githubusercontent.com/48637474/230878573-a26b035d-3ed0-4db9-9b58-161067632daf.jpg)
-**Figure 1. The architecture of the proposed deep learning-based simple online and real-time vessel data fusion method.**
+<div align=center> Figure 1. The architecture of the proposed deep learning-based simple online and real-time vessel data fusion method.</div>
 
 ![Figure03_Video](https://user-images.githubusercontent.com/48637474/230878762-223472ae-cf19-4167-adbb-80c3f77ae9c3.jpg)
 **Figure 2. The flowchart of anti-occlusion tracking method for video-based vessel trajectory extraction.**
