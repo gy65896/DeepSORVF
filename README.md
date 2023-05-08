@@ -23,10 +23,10 @@
 ## Flowchart
 
 ![Figure01_Flowchart](https://user-images.githubusercontent.com/48637474/230878573-a26b035d-3ed0-4db9-9b58-161067632daf.jpg)
-<div align=center><b>Figure 1. The architecture of the proposed deep learning-based simple online and real-time vessel data fusion method.<b></div>
+<div align=center><b>Figure 1. The architecture of the proposed deep learning-based simple online and real-time vessel data fusion method.<\b></div>
 
 ![Figure03_Video](https://user-images.githubusercontent.com/48637474/230878762-223472ae-cf19-4167-adbb-80c3f77ae9c3.jpg)
-<div align=center><b>Figure 2. The flowchart of anti-occlusion tracking method for video-based vessel trajectory extraction.<b></div>
+<div align=center><b>Figure 2. The flowchart of anti-occlusion tracking method for video-based vessel trajectory extraction.<\b></div>
 
 ## Running
 * Save [ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link) to `DeepSORVF/deep_sort/deep_sort/deep/checkpoint/` folder.
@@ -41,7 +41,7 @@
 The [FVessel](https://github.com/gy65896/FVessel) benchmark dataset is used to evaluate the reliability of AIS and video data fusion algorithms, which mainly contains 26 videos and the corresponding AIS data captured by the HIKVISION DS-2DC4423IW-D dome camera and Saiyang AIS9000-08 Class-B AIS receiver on the Wuhan Segment of the Yangtze River. To protect privacy, the MMSI for each vessel has been replaced with a random number in our dataset. As shown in Figure 1, these videos were captured under many locations (e.g., bridge region and riverside) and various weather conditions (e.g., sunny, cloudy, and low-light).
 
 ![Figure04_FVessel](https://user-images.githubusercontent.com/48637474/210925024-15dcbcbe-717b-47b6-ad4b-377d71141380.jpg)
-<div align=center><b>Figure 3. Some samples of the FVessel dataset, which contains massive images and videos captured on the bridge region and riverside under sunny, cloudy, and low-light conditions.<b></div>
+<div align=center><b>Figure 3. Some samples of the FVessel dataset, which contains massive images and videos captured on the bridge region and riverside under sunny, cloudy, and low-light conditions.<\b></div>
 
 ## Performance on [FVessel_V1.0](https://github.com/gy65896/FVessel)
 <div align=center>
