@@ -6,8 +6,8 @@
 [![Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2302.11283)
 [![Dataset](https://img.shields.io/badge/FVessel-Dataset-orange.svg)](https://github.com/gy65896/FVessel)
 [![Chinese](https://img.shields.io/badge/简体中文-Chinese-green.svg)](README_zh-CN.md)
-[![Python](https://img.shields.io/badge/3.7-Python-blue.svg)](https://www.python.org/)
-[![Pytorch](https://img.shields.io/badge/1.9.1-Pytorch-yellow.svg)](https://pytorch.org/)
+[![3.7](https://img.shields.io/badge/Python-3.7-blue.svg)](https://www.python.org/)
+[![1.9.1](https://img.shields.io/badge/Pytorch-1.9.1-yellow.svg)](https://pytorch.org/)
 
 </div>
 
