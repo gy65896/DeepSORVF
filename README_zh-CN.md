@@ -2,10 +2,11 @@
 
 <div align="center">
 
+[![Paper](https://img.shields.io/badge/PDF-Paper-blue.svg)](https://ieeexplore.ieee.org/abstract/document/10159572)
 [![Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2302.11283)
 [![Dataset](https://img.shields.io/badge/FVessel-Dataset-orange.svg)](https://github.com/gy65896/FVessel)
 [![English](https://img.shields.io/badge/英文-English-green.svg)](README.md)
-[![3.7](https://img.shields.io/badge/Python-3.7-blue.svg)](https://www.python.org/)
+[![3.7](https://img.shields.io/badge/Python-3.7-pink.svg)](https://www.python.org/)
 [![1.9.1](https://img.shields.io/badge/Pytorch-1.9.1-yellow.svg)](https://pytorch.org/)
 <a target="_blank" href="https://colab.research.google.com/github/gy65896/DeepSORVF/blob/main/main_example.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
