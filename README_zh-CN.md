@@ -98,7 +98,7 @@
 }
 ```
 
-#### 如果您有更多问题，请联系我们(yuguo@whut.edu.cn & wenliu@whut.edu.cn)。
+#### DeepSORVF 仅可用于非商业研究目的。 索取完整代码时，请使用您的机构或学校电子邮件地址联系我们，仅供研究之用。 (yuguo@whut.edu.cn & wenliu@whut.edu.cn)
 
 ## 参考资料
 
