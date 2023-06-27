@@ -97,8 +97,7 @@ We deeply thank **Jianlong Su** from the School of Computer and Artificial Intel
   year={2023}
 }
 ```
-
-#### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
+#### The DeepSORVF is available for non-commercial research purposes only. When requesting the complete code, please contact us using your institutional or school email address exclusively for research purposes. (yuguo@whut.edu.cn & wenliu@whut.edu.cn)
 
 ## Reference
 
