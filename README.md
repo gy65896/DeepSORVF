@@ -9,9 +9,9 @@
 [![Chinese](https://img.shields.io/badge/简体中文-Chinese-green.svg)](README_zh-CN.md)
 [![3.7](https://img.shields.io/badge/Python-3.7-pink.svg)](https://www.python.org/)
 [![1.9.1](https://img.shields.io/badge/Pytorch-1.9.1-yellow.svg)](https://pytorch.org/)
+[![1.9.1](https://profile-counter.glitch.me/gy65896_DeepSORVF/count.svg)](https://pytorch.org/)
 <a target="_blank" href="https://colab.research.google.com/github/gy65896/DeepSORVF/blob/main/main_example.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-<img src="https://profile-counter.glitch.me/gy65896_DeepSORVF/count.svg" alt="Open In Colab"/>
 </a>
 
 </div>
