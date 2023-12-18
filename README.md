@@ -41,6 +41,8 @@
 * fastdtw 0.3.4
 * pytorch 1.13.1
 * cuda 11.7
+* pandas 1.3.5
+* numpy 1.21.6
 
 ## Running
 * Save [ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link) to `DeepSORVF/deep_sort/deep_sort/deep/checkpoint/` folder.
