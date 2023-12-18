@@ -35,6 +35,7 @@
 
 ## Environment
 * Python3.7
+* easydict
 
 ## Running
 * Save [ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link) to `DeepSORVF/deep_sort/deep_sort/deep/checkpoint/` folder.
