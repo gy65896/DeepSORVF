@@ -25,7 +25,7 @@ def update_time(Time, t):
 def read_all(path, result_path):
     video_path = glob.glob(path+'*.mp4') + glob.glob(path+'*.avi')
     video_path = video_path[0]
-    v_p = re.split('[\.\-\_\\\]',video_path)
+    v_p = re.split('[\.\-\_\\\\/]',video_path)
     ais_path = path+'/ais'
     
     os.makedirs(result_path, exist_ok=True)
