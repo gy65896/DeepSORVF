@@ -35,7 +35,12 @@
 
 ## Environment
 * Python3.7
-* easydict
+* easydict 1.11
+* geopy 2.4.1
+* pyproj 3.2.1
+* fastdtw 0.3.4
+* pytorch 1.13.1
+* cuda 11.7
 
 ## Running
 * Save [ckpt.t7](https://drive.google.com/file/d/1QdIP5TEDALJnnpqwjXwvL1J_GoseTK9D/view?usp=share_link) to `DeepSORVF/deep_sort/deep_sort/deep/checkpoint/` folder.
