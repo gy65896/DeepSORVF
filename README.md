@@ -66,9 +66,13 @@ The [FVessel](https://github.com/gy65896/FVessel) benchmark dataset is used to e
 
 |Name|MOFA (%)|IDP (%)|IDR (%)|IDF (%)|Video
 | :-: | :-: | :-: | :-: | :-: |
+
 [video-01](https://github.com/gy65896/DeepSORVF/assets/48637474/a3d4a688-e97b-4fdf-b0be-ecc536e41134)|79.94|89.35|90.76|90.05
+
 [video-02](https://github.com/gy65896/DeepSORVF/assets/48637474/d52b4388-aa8f-4293-9898-2a7913d600df)|73.19|83.27|91.60|87.23
+
 [video-03](https://github.com/gy65896/DeepSORVF/assets/48637474/182ae077-dc8f-4773-bb04-499aa0eee90e)|96.45|99.23|97.20|98.20
+
 [video-04](https://github.com/gy65896/DeepSORVF/assets/48637474/1509e058-fa36-4cfd-8cd5-c00d12a29dce)|98.08|99.45|98.63|99.03
 [video-05](https://github.com/gy65896/DeepSORVF/assets/48637474/20aa62d4-ea5a-4c3e-a28a-ded9f7f97b6d)|89.19|93.46|95.91|94.67
 [video-06](https://github.com/gy65896/DeepSORVF/assets/48637474/c4634627-1472-48a3-8cbd-6b41db3c870b)|91.17|96.04|95.08|95.56
