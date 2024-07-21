@@ -1,5 +1,5 @@
 
-# <p align=center> [IEEE TITS 2023] DeepSORVF: Deep Learning-based Simple Online and Real-Time Vessel Data Fusion Method</p>
+# <p align=center> [TITS 2023] DeepSORVF: Deep Learning-based Simple Online and Real-Time Vessel Data Fusion Method</p>
 
 <div align="center">
 
@@ -17,7 +17,9 @@
 </div>
 
 ---
->**Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways**<br>  [Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN), [Ryan Wen Liu*](http://mipc.whut.edu.cn/index.html), [Jingxiang Qu](https://scholar.google.com/citations?user=9zK-zGoAAAAJ&hl=zh-CN), [Yuxu Lu](https://scholar.google.com/citations?user=XXge2_0AAAAJ&hl=zh-CN), Fenghua Zhu*, Yisheng Lv (* indicates corresponding author)<br> 
+>**Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways**<br>
+>[Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN), [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html)<sup>* </sup>, [Jingxiang Qu](https://scholar.google.com/citations?user=9zK-zGoAAAAJ&hl=zh-CN), [Yuxu Lu](https://scholar.google.com/citations?user=XXge2_0AAAAJ&hl=zh-CN), Fenghua Zhu<sup>* </sup>, Yisheng Lv <br>
+>(* Corresponding Author)<br> 
 >IEEE Transactions on Intelligent Transportation Systems
 
 > **Introduction:** *In this work, we first extract the AIS- and video-based vessel trajectories, and then propose a deep learning-enabled asynchronous trajectory matching method (named DeepSORVF) to fuse the AIS-based vessel information with the corresponding visual targets. In addition, by combining the AIS- and video-based movement features, we also present a prior knowledge-driven anti-occlusion method to yield accurate and robust vessel tracking results under occlusion conditions.*
@@ -104,14 +106,17 @@ We deeply thank **Jianlong Su** from the School of Computer and Artificial Intel
 
 ```
 @article{guo2023asynchronous,
-  title={Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways},
-  author={Guo, Yu and Liu, Ryan Wen and Qu, Jingxiang and Lu, Yuxu and Zhu, Fenghua, and Lv, Yisheng},
+  title={Asynchronous trajectory matching-based multimodal maritime data fusion for vessel traffic surveillance in inland waterways},
+  author={Guo, Yu and Liu, Ryan Wen and Qu, Jingxiang and Lu, Yuxu and Zhu, Fenghua and Lv, Yisheng},
   journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={24},
+  number={11},
+  pages={12779--12792},
   year={2023}
 }
 ```
 <!--
-#### The DeepSORVF is available for non-commercial research purposes only. When requesting the complete code, please contact us using your institutional or school email address exclusively for research purposes. (yuguo@whut.edu.cn & wenliu@whut.edu.cn)
+#### The DeepSORVF is available for non-commercial research purposes only. If you have any questions, please get in touch with me (guoyu65896@gmail.com).
 -->
 
 ## Reference
